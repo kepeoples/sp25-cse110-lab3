@@ -53,9 +53,11 @@ h3 {
 }
 
 ul li:first-child {
-    background-color: color-mix(in srgb, red 60%, blue);
+    background-color: #9900cc;
+    /* or another standard color */
     color: white;
 }
+
 
 ul>li:hover {
     background-color: yellow;
