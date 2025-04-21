@@ -1,4 +1,5 @@
 # Standup Notes
+<!-- Template placeholder created for Lab 3 -->
 
 **Date:** 2025-04-19
 
