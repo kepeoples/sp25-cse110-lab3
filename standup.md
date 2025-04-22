@@ -4,7 +4,7 @@
 **Date:** 2025-04-19
 
 ## What I did yesterday
-- Finished setting up GitHub Pages
+- Finished setting up GitHub Pages  
 - Wrote README file
 
 ## What I’m doing today
@@ -13,14 +13,27 @@
 ## Any blockers?
 - None
 
+**Date:** 2025-04-20
+
+## What I did yesterday
+- Finalized layout structure for meeting minutes  
+- Researched `:has()` selector compatibility
+
+## What I’m doing today
+- Implementing responsive layout with flexbox  
+- Starting to plan Issue #6 (media queries)
+
+## Any blockers?
+- Unsure if `:has()` is fully supported across required browsers
+
 **Date:** 2025-04-21
 
 ## What I did yesterday
-- Added CSS styling for headers and sections
+- Added CSS styling for headers and sections  
 - Finished Issue #4 (passphrase placeholder)
 
 ## What I’m doing today
-- Working on responsive layout for meeting minutes
+- Working on responsive layout for meeting minutes  
 - Starting Issue #6 (media queries)
 
 ## Any blockers?
